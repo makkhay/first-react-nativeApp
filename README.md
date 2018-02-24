@@ -9,7 +9,7 @@
 
 ### TODO
 
-- [-] Create a simple React Native app using any two of the following three methods:
+- [] Create a simple React Native app using any two of the following three methods:
   - [ ] [Vanilla React Native](https://facebook.github.io/react-native/) **([GET STARTED](https://github.com/mobilespace/exploring-react-native#vanilla-react-native))**
   - [ ] [CRNA](https://github.com/react-community/create-react-native-app) **([GET STARTED](https://github.com/mobilespace/exploring-react-native#crna))**
   - [ ] [Expo](https://expo.io) **([GET STARTED](https://github.com/mobilespace/exploring-react-native#expo))**
