@@ -1,4 +1,4 @@
-### [Demo - Try it on Expo](https://exp.host/@monte9/crna)
+### [Demo - Try it on Expo](https://expo.io/@makkhay/crna)
 
 ## Assignment #1
 
