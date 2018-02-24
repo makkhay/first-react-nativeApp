@@ -25,7 +25,7 @@
 
 ### Demo
 
-![working_gif_assignment_3](https://i.imgur.com/8b7xL6x.gif)
+<img src='https://github.com/makkhay/first-react-nativeApp/blob/master/gif.gif' title='Video Walkthrough.' width='' alt='Video Walkthrough' />
 
 ## Vanilla React Native
 
